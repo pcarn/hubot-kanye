@@ -36,7 +36,10 @@ quotes = [
   "I have, like, nuclear power, like a superhero, like Cyclops when he puts his glasses on.",
   "Yeah. I'm rich and I'm famous, but I try not to be extra with it.",
   "A lot of people were wondering what I was going to do if I didn't win anything. I guess we'll never know.",
-  "I'm a creative genius and there's no other way to word it."
+  "I'm a creative genius and there's no other way to word it.",
+  "You love hip hop, you love my art... I am your favorite artist but you watch me barely breathe and still play my album in your house ...",
+  "I know I can make the world a better place... I have done the impossible ... I retook the throne of rap... I beat the fashion game...",
+  "All you dudes in San Fran play rap music in your homes but never help the real artists... you’d rather open up one school in Africa like you really helped the country... if you want to help... help me..."
 ]
 
 module.exports = (robot) ->
