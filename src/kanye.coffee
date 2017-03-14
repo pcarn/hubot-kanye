@@ -39,7 +39,8 @@ quotes = [
   "I'm a creative genius and there's no other way to word it.",
   "You love hip hop, you love my art... I am your favorite artist but you watch me barely breathe and still play my album in your house ...",
   "I know I can make the world a better place... I have done the impossible ... I retook the throne of rap... I beat the fashion game...",
-  "All you dudes in San Fran play rap music in your homes but never help the real artists... you’d rather open up one school in Africa like you really helped the country... if you want to help... help me..."
+  "All you dudes in San Fran play rap music in your homes but never help the real artists... you’d rather open up one school in Africa like you really helped the country... if you want to help... help me...",
+  "We're living the future so the present is our past."
 ]
 
 module.exports = (robot) ->
